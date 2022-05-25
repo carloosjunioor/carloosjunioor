@@ -1,8 +1,15 @@
-- 👋 Olá, Eu sou o Carlos Junior
-- 👀 Tenho interesse em Front-End
-- 🌱 Estudando Desenvolvimento Web
-- 💞️ Estou procurando por conhecimento na área.
+## Hello, Dev!! Eu sou o Carlos Junior
+### Bem vindo ao meu perfil GitHub 👋
+
+- 👀 Tenho interesse em Front-End e Desenvolvimento mobile
+- 💞️ Estou procurando por conhecimento e oportunidades nas áreas informadas.
 - 📫 Contate-me no e-mail: carlosalbt7@gmail.com ou carlosalbt@live.com
+
+### 🌱 Atualmente, estou aperfeiçoando os meus conhecimentos em:
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/CelsoJunioDev/CelsoJunioDev/8d3cf9527b6ab9336ccb38164cf398a216d1eb71/languages.svg" alt="example badge">
+ </p>
 
 <div align="center">
   <a href="https://github.com/carlosalbt">
