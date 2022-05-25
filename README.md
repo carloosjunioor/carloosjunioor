@@ -2,7 +2,7 @@
 - 👀 Tenho interesse em Front-End
 - 🌱 Estudando Desenvolvimento Web
 - 💞️ Estou procurando por conhecimento na área.
-- 📫 Contate-me no e-mail: carlosalbt@live.com
+- 📫 Contate-me no e-mail: carlosalbt7@gmail.com ou carlosalbt@live.com
 
 <div align="center">
   <a href="https://github.com/carlosalbt">
